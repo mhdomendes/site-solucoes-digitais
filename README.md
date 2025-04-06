@@ -20,9 +20,3 @@ Este projeto é um site institucional moderno e responsivo, focado em apresentar
   - Soluções Digitais Personalizadas  
 - Design responsivo  
 - Interface moderna com destaque para usabilidade  
-
-## 📦 Como usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/mhdomendes/site-solucoes-digitais.git
