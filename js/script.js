@@ -15,6 +15,5 @@ window.onload = function() {
     // Aguarde um pequeno tempo para evitar piscadas
     setTimeout(() => {
         document.body.style.display = "block";
-    }, 100);
+    }, 200);
 };
-
